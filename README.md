@@ -22,6 +22,23 @@ The framework is designed to automate important OrangeHRM modules and demonstrat
 
 ---
 
+## 👨‍💻 Author
+
+**Soumyaranjan Sahoo**
+
+**Role:** Fullstack Automation / Software Testing Trainee  
+**Course:** Full Stack Automation  
+**Training Institute:** GrowSkill IT Institute  
+**Project:** OrangeHRM Web Portal Automation
+**Trainer:** Priyanka Arora
+
+### 🔗 Author Links
+
+- **GitHub:** [soumyaranjansahoo5](https://github.com/soumyaranjansahoo5)
+- **LinkedIn:** [Soumyaranjan Sahoo](https://linkedin.com/in/soumyaranjan7321/)
+
+---
+
 ## 📋 Table of Contents
 
 - [Project Overview](#1-project-overview)
