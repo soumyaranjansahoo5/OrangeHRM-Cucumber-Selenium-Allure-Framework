@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Element locator issues",
+    "matchedStatuses": ["failed", "broken"],
+    "messageRegex": ".*(NoSuchElementException|ElementNotInteractableException|StaleElementReferenceException).*"
+  },
+  {
+    "name": "Timeouts",
+    "matchedStatuses": ["failed", "broken"],
+    "messageRegex": ".*(TimeoutException).*"
+  },
+  {
+    "name": "Assertion failures",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*(AssertionError|expected).*"
+  },
+  {
+    "name": "Driver / environment issues",
+    "matchedStatuses": ["broken"],
+    "messageRegex": ".*(WebDriverException|SessionNotCreatedException).*"
+  }
+]

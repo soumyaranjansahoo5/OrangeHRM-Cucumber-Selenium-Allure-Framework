@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="OrangeHRM Cucumber Suite" verbose="1">
+    <test name="OrangeHRM Regression Test">
+        <classes>
+            <class name="runner.TestRunner"/>
+        </classes>
+    </test>
+
+    <!-- Runner #1 of 2 for the Cucumber concepts demo (TestNG-based). -->
+    <test name="Cucumber Concepts Demo">
+        <classes>
+            <class name="cucumberOptions.ConceptsTestNGRunner"/>
+        </classes>
+    </test>
+</suite>
