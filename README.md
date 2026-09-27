@@ -1,7 +1,48 @@
-# OrangeHRM Cucumber Selenium Framework
 
+
+
+# OrangeHRM Web Portal – Selenium Automation Framework
 A BDD test automation framework built for the [OrangeHRM demo application](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login), using **Selenium WebDriver**, **Cucumber BDD**, **TestNG**, and the **Page Object Model (POM)**. Built as a QA automation portfolio project demonstrating a professional, maintainable test architecture.
 
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.18.1-green)
+![TestNG](https://img.shields.io/badge/TestNG-7.9.0-orange)
+![Cucumber](https://img.shields.io/badge/Cucumber-7.x-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-3.9%2B-red)
+![Allure](https://img.shields.io/badge/Allure-Report-purple)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+A Java-based Selenium WebDriver automation testing framework for the
+[OrangeHRM Demo Portal](https://opensource-demo.orangehrmlive.com/).
+
+This project is built using **Selenium WebDriver, Java, Cucumber BDD, TestNG, Maven, Page Object Model (POM), and Allure Reporting**.
+
+The framework is designed to automate important OrangeHRM modules and demonstrate a structured, maintainable, and reusable automation framework.
+
+---
+
+## 📋 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Skills & Technologies](#-skills--technologies)
+- [Automation Framework](#-automation-framework)
+- [Project Structure](#-project-structure)
+- [Modules & Test Coverage](#-modules--test-coverage)
+- [Testing Types](#-testing-types)
+- [Prerequisites](#-prerequisites)
+- [Setup & Installation](#-setup--installation)
+- [Configuration](#-configuration)
+- [Running Tests](#-running-tests)
+- [Cucumber BDD](#-cucumber-bdd)
+- [TestNG](#-testng)
+- [Allure Reporting](#-allure-reporting)
+- [Test Reports](#-test-reports)
+- [Git & GitHub](#-git--github)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+
+---
 ---
 
 ## 1. Project Overview
