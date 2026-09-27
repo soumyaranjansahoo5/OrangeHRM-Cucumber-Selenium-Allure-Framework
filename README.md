@@ -329,4 +329,4 @@ mvn test -Dtest=ConceptsTestNGRunner -Dcucumber.filter.tags="@hooksDemo"
 
 ---
 
-**Note:** This project targets a public demo environment (`opensource-demo.orangehrmlive.com`) that is periodically reset and may occasionally be slow or unavailable. Locators are based on the current OXD component structure of the demo site as of this framework's creation; if OrangeHRM updates its UI, the affected Page Object locators may need adjusting.
+
